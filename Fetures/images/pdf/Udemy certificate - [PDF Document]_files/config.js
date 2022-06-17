@@ -1,0 +1,1 @@
+ReaderTT.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"","producer":"","creationdate":"","moddate":"","trapped":"","fileName":"document.pdf","bounds":[[2444,1824]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
